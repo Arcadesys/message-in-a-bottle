@@ -11,9 +11,9 @@ Ten quiet years. A friend's return. Cartoon physics, municipal corruption, dimen
 ### 🖨️ Paper and dice (no computer at the table)
 - **[Complete GM module (PDF)](pdf/message-in-a-bottle-module.pdf)**: all eight gatherings, scene prompts, encounters, clocks, NPCs, and alternate outcomes.
 - **[Printable player handouts (PDF)](pdf/message-in-a-bottle-player-handouts.pdf)**: reunion sheet and staged clues. **GMs should reveal them at the indicated sessions.**
-- [Illustrated campaign walkthrough (PDF)](pdf/message-in-a-bottle-campaign-walkthrough.pdf): development background and full spoilers; optional reading, not needed to run the adventure.
+- [Illustrated campaign walkthrough (PDF, on the author's site)](https://work.thearcades.me/downloads/message-in-a-bottle-campaign-walkthrough.pdf): development background and full spoilers; optional reading, not needed to run the adventure.
 
-The PDFs are complete, ready-to-print resources. You need only your **SWADE core rules**, dice, Action Cards, Bennies, and characters.
+The repository PDFs are complete, **text-first, printer-friendly** resources. The more richly illustrated PDF editions are also available on the [author's site](https://work.thearcades.me/campaigns/message-in-a-bottle-module/). You need only your **SWADE core rules**, dice, Action Cards, Bennies, and characters.
 
 ### 💻 Screen-assisted GMing
 - **[Interactive GM runner (on the author's website)](https://work.thearcades.me/campaigns/message-in-a-bottle-module/)**: scene cards, essential-clue checkboxes, manual pressure clocks, session timer, notes, optional sounds, and progress saved locally in your browser.
@@ -21,7 +21,7 @@ The PDFs are complete, ready-to-print resources. You need only your **SWADE core
 - [Player handouts in HTML](https://work.thearcades.me/campaigns/message-in-a-bottle-module/handouts.html)
 - [Standalone HTML app in this repository](app/): identical campaign data, with relative links suitable for static hosting. To serve locally, see below.
 
-**Privacy:** The app stores notes and progress in the browser's local storage. It does not require accounts or send play records to a service. Exported backups may contain your own notes, so share them deliberately.
+**Privacy:** The app stores notes and progress in the browser's local storage. It does not require accounts or send play records to a service. Illustrations are requested from the author's website while online. Exported backups may contain your own notes, so share them deliberately.
 
 ## Run the HTML app locally
 
@@ -51,7 +51,7 @@ To publish with GitHub Pages, enable **Settings → Pages → Deploy from branch
 | `pdf/` | Printable GM book, player handouts, and illustrated walkthrough |
 | `app/` | Accessible static HTML GM runner, campaign JSON, complete module, handouts, and campaign artwork |
 | `source/` | Markdown authoring sources and structured session data |
-| `scripts/` | Optional release and build tooling |
+| `scripts/` | Zero-dependency generator for the two printer-friendly PDFs |
 
 ## Credits and provenance
 

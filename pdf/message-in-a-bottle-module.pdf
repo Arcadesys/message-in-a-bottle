@@ -1,0 +1,1159 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 44 0 R 46 0 R 48 0 R 50 0 R 52 0 R 54 0 R 56 0 R 58 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1248 >>
+stream
+0.08 0.13 0.17 rg BT /F2 27 Tf 1 0 0 1 54 642 Tm (MESSAGE IN A BOTTLE) Tj ET
+0.08 0.13 0.17 rg BT /F2 15 Tf 1 0 0 1 54 602 Tm (SAVAGE WORLDS ADVENTURE EDITION) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 577 m 558 577 l S
+0.08 0.13 0.17 rg BT /F2 13 Tf 1 0 0 1 54 534 Tm (COMPLETE GAMEMASTER MODULE - FULL SPOILERS) Tj ET
+0.08 0.13 0.17 rg BT /F1 12 Tf 1 0 0 1 54 488 Tm (Eight gatherings. One city. Nobody owns the people inside it.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.5 Tf 1 0 0 1 54 454 Tm (Campaign conception and direction: Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.5 Tf 1 0 0 1 54 427 Tm (Free Fan Edition 0.1 | Unofficial | Unplaytested) Tj ET
+0.08 0.13 0.17 rg BT /F1 11 Tf 1 0 0 1 54 389 Tm (Requires the Savage Worlds Adventure Edition core rulebook.) Tj ET
+0.08 0.13 0.17 rg BT /F1 10 Tf 1 0 0 1 54 367 Tm (Human-directed AI tools assisted writing, assembly, and illustrations.) Tj ET
+0.08 0.13 0.17 rg BT /F1 10 Tf 1 0 0 1 54 345 Tm (Free fan product. No purchase or account required.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11 Tf 1 0 0 1 54 130 Tm (This document is designed for printing and offline tabletop use.) Tj ET
+0.08 0.13 0.17 rg BT /F1 10 Tf 1 0 0 1 54 108 Tm (Only share the separate player handouts as scenes reveal them.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4182 >>
+stream
+0.08 0.13 0.17 rg BT /F2 23 Tf 1 0 0 1 54 703 Tm (Message in a Bottle) Tj ET
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 648 Tm (Start here) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 611.6 Tm (Chicago has had ten quiet years. Your old crew has a friend to bring home, a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 596.4 Tm (portal to assemble, and a perfectly reasonable expectation that this will be the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 581.2 Tm (strangest part of the evening.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 556 Tm (It will not be the strangest part of the evening.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 530.8 Tm (Message in a Bottle is an eight-gathering campaign for Savage Worlds Adventure) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 515.6 Tm (Edition \(SWADE\). It starts with a playable reunion and ends with a voyage between) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 500.4 Tm (realities. Between them: cartoon physics, a corrupt municipal contractor, cosmic) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 485.2 Tm (property law, and a Chicago whose residents have never been told what contains their) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 470 Tm (city.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 444.8 Tm (Audience: Game Masters. Full campaign spoilers. Give players only the separate player) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 429.6 Tm (handouts, and reveal the later handouts when their scene arrives.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 404.4 Tm (Requirements: The SWADE core rules, dice, Action Cards, Bennies, and three to five) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 389.2 Tm (players with characters. The core rules are not included. This is an original fan) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 374 Tm (adventure, not an official Pinnacle product. No Companion is required. It works best) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 358.8 Tm (with a group willing to treat absurd things seriously enough to save the people inside) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 343.6 Tm (them.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 318.4 Tm (Recommended baseline: Four Seasoned Wild Cards, eight gatherings of roughly three) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 303.2 Tm (to four hours. Give one Advance after Sessions 1, 3, and 5. If you import powerful) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 288 Tm (characters from an older campaign, keep their identities and agree their SWADE) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 272.8 Tm (builds before play. These are choices for this edition, not recovered facts about the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 257.6 Tm (original game.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 232.4 Tm (Status: Free fan edition 0.1. Written and mechanically checked; not playtested.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 217.2 Tm (Encounter counts and challenge targets are starting points. After your first session,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 202 Tm (adjust pressure rather than changing an NPC's numbers secretly in the middle of a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 186.8 Tm (roll.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 152.6 Tm (What changed for this edition) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 120.3 Tm (The campaign bible established eight gatherings, Chicago's ownership mystery, the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 105.1 Tm (Vivarium Keeper, the accelerator, the timed passages, and the homecoming. It) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 89.9 Tm (deliberately left maps, NPC builds, several mechanics, and alternate endings open.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4784 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (This edition adds runnable scenes, original NPC profiles, explicit clues, a node map,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (adventure-specific clocks, a fictional accelerator site, three travel stops, handouts,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (and failure routes. It chooses a fictional mayor named Calder, a generic returning) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 670.4 Tm (hero named Mark, and the Keeper's repossessor as its field agent. These additions) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 655.2 Tm (are preparation for a new table. They do not rewrite the old campaign's history or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 640 Tm (supply player decisions that never happened.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 614.8 Tm (The sea and archipelago imagery comes from Austen Tucker-Crowder's *The Witch) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 599.6 Tm (Who Sold the World*, whose universe is distinct from the *Ink and Paint* books.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.4 Tm (This campaign is an intentional tabletop remix, not a canonical sequel. All cartoon) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.2 Tm (people here are original; use no licensed cartoon cameos.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 544 Tm (Human-directed AI tools assisted development, writing, assembly, and illustrations. The) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 528.8 Tm (images interpret campaign plans. They are not recovered maps or records of played) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 513.6 Tm (sessions.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 479.4 Tm (Before people arrive) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (1. Read The secret in one minute, Session 0, and the NPC profiles.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 426.9 Tm (2. Decide whether Mark is a player's character or a supporting NPC. A player) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 411.7 Tm (controls their own character. If Mark is an NPC, he supplies the fiction of) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 396.5 Tm (electrical navigation, not automatic solutions or bonus turns for the GM.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 376.3 Tm (3. Ask each player for a place in Chicago worth saving and one remembered) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 361.1 Tm (adventure image. Memories are proposals: confirm them together before adding them) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 345.9 Tm (to continuity. New groups can invent those memories openly.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 325.7 Tm (4. Agree boundaries around disaster, coercion, cruelty, and confinement. This campaign) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 310.5 Tm (depicts people treated as property; it rejects that treatment. Check whether the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 295.3 Tm (group wants that theme. Revise or remove distressing descriptions freely.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 275.1 Tm (5. Pick a pause signal, allow breaks, and establish that a player can step away) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 259.9 Tm (without explaining. Use public fictional intake questions, never publish personal answers.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 239.7 Tm (6. Print the reunion sheet. Keep the other handouts behind the screen until their) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 224.5 Tm (scenes arrive. Put a copy of SWADE's Support, Tests, Dramatic Tasks, Quick) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 209.3 Tm (Encounters, and combat sections within reach.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 175.1 Tm (The secret in one minute) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 142.8 Tm (Up was a higher-dimensional accountant who kept small realities as living collections.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 127.6 Tm (Up died in a stupid accident. He was not murdered. His collection went to an estate) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 112.4 Tm (auction.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 87.2 Tm (A human municipal contractor, Calder, found scavenged auction technology. A human) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4327 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (could not bid, so an eligible higher-dimensional buyer acted for him. Its compensation) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (was Chicago as a living snow globe, including permission to shake it. Calder gained) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (political power and a profitable disaster-repair business. The Keeper gained) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 670.4 Tm (entertainment.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 645.2 Tm (The heroes experience the shakes as unrelated weirdness. They discover the business) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 630 Tm (pattern, enter the Thompson Center's dimensional bureaucracy, find the bottle's seam,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 614.8 Tm (and use a fictional accelerator to crack the ownership boundary. Chicago need not) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 599.6 Tm (fly away: the heroes are thrown outside while the city remains where it is.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 574.4 Tm (The final two gatherings are a voyage through a primordial archipelago. The heroes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 559.2 Tm (send a message, find their city, and return without rebuilding the boundary. The) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 544 Tm (intended ending is simple: Chicago belongs to its people.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 509.8 Tm (Run the mystery without a gate) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (Essential clues are available when characters take a sensible action. A failed roll) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 462.3 Tm (changes time, exposure, witnesses, or detail; it does not erase the only path forward.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (Roll for risk and uncertainty, not to decide whether the campaign continues.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 421.9 Tm (Track the following revelations. Deliver each through at least two routes before) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 406.7 Tm (asking players to act on it:) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 381.5 Tm (Revelation / First route / Backup route) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 361.3 Tm (Incursions are patterned / Matching contractor seals / Witness sees equipment) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 346.1 Tm (before a shake) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 325.9 Tm (Somebody profits / Emergency invoices / Crew testimony and replacement stock) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 305.7 Tm (Chicago is contained property / Ownership diagram / Auction receipt translated by a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 290.5 Tm (clerk) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 270.3 Tm (A buyer was paid with shaking rights / Keeper's enclosure label / Compensation) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 255.1 Tm (clause in the ledger) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 234.9 Tm (The seam can be cracked / Thompson control diagram / Repossessor's repair) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 219.7 Tm (instructions) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 199.5 Tm (Travel windows are timed / Mark's portal story / Three-pulse countdown on the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 184.3 Tm (vessel) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 164.1 Tm (Homecoming must not restore ownership / Severance receipt / Keeper offers an) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 148.9 Tm (explicit bad bargain) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 114.7 Tm (Checks, clocks, and core rules) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 82.4 Tm (Use SWADE normally for Trait rolls, Support, Tests, combat, damage, Bennies, and) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 4) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4454 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (Dramatic Task complications. This book refers to those rules; it does not reproduce) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (their text. An unlisted skill is not an automatic rejection: let the player describe a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (method, then choose a suitable Trait and a consequence.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 660.4 Tm (Adventure clocks are new procedures for this module. They are not extra SWADE) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 645.2 Tm (rules. Draw the stated number of boxes. Fill a box only at the trigger the scene) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 630 Tm (gives you. Tell the players what is worsening. A roll failure does not fill two clocks) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 614.8 Tm (unless the scene explicitly says so.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 589.6 Tm (For multi-person Dramatic Tasks, use the stated token goal and duration with the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 574.4 Tm (core rules. Any eligible character may work, Support another character, or handle the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 559.2 Tm (surrounding threat. Do not count a Support roll as its own Task Token. The) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 544 Tm (generous opening is a tutorial; the accelerator demands trade-offs. If the group has) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 528.8 Tm (three heroes, reduce group token targets by two; with five heroes, increase them by) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 513.6 Tm (two. Leave deadlines unchanged. These targets are this edition's calibration choices.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 479.4 Tm (Cartoon physics, without a new subsystem) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (Describe impossible physics, then resolve a concrete action with the core rules. A) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 431.9 Tm (painted door is an exit if a character establishes why this scene's rules allow it. A) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 416.7 Tm (dropped anvil is a hazard, not permission to ignore damage. A squashed person can) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 401.5 Tm (be rescued; the injury still matters.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 376.3 Tm (Before a roll, say what the character expects, what rule is currently strange, and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 361.1 Tm (what a failure will cost. Let characters learn that rule through observation or a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 345.9 Tm (harmless test. Never secretly change it to negate a clever plan. Cooperative rescue) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 330.7 Tm (earns allies; cruelty loses them. Cartoons are people.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 296.5 Tm (Adjust at the table) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 264.2 Tm (For newer players, reduce the number of simultaneous enemies and introduce one rule) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 249 Tm (at a time. For stronger parties, add an endangered location, a second objective, or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 233.8 Tm (a competing deadline before adding damage. Keep enemy retreats and negotiation) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 218.6 Tm (available.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 193.4 Tm (Each gathering includes an exit condition and a failure route. Stop on a revelation) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 178.2 Tm (if the group is tired. Session numbers describe a useful spine, not a rule that) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 163 Tm (nobody may investigate ahead or return to a place. Use the printable session) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 147.8 Tm (checklist or the GM runner's Used marks to remember what actually happened.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 5) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 3365 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 0 - Bring Mark Back) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act I - The city slips. Bring the crew together and teach SWADE through an) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (urgent shared job.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (The portal frame is taller than the garage door. Its cables are labeled in) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (handwriting you recognize. Through the empty center, someone knocks three times. A) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (voice says: "I found the exit. Please tell me you found the entrance.") Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- Mark crossed passages that opened on a schedule.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- Somewhere outside, living worlds are kept as collections. Mark remembers a label,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 456.6 Tm (not an explanation.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 426.4 Tm (Visible clock: Portal instability) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 394.1 Tm (3 boxes. Fill one box at the end of a task round while the portal remains) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 378.9 Tm (unfinished. At the limit: Mark arrives with collateral trouble. The return is never) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 363.7 Tm (cancelled.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 329.5 Tm (1. Agree the return) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 297.2 Tm (Offer: Ask each player what their hero contributes and what they want Mark to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 282 Tm (find waiting.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 256.8 Tm (Let the crew examine the frame and choose three feeds: power, alignment, and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 241.6 Tm (physical stability. No roll is needed to discover these jobs. A successful Notice,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 226.4 Tm (Electronics, or Repair roll spots a scorched label and allows the group to choose) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 211.2 Tm (where the first complication appears. Give new players one ordinary roll before) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 196 Tm (introducing the larger task.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 170.8 Tm (Clue: A strip of tape says: "Keep an anchor at both ends. Do not wait for the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 155.6 Tm (third pulse.") Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 121.4 Tm (2. Build the portal) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 89.1 Tm (Offer: Open the core Dramatic Task reference. Offer power, alignment, bracing, or) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 6) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 3785 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (Support.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 690.8 Tm (Tutorial task: 8 group Task Tokens in 3 rounds. Electronics or Repair operates a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 675.6 Tm (feed; Athletics braces the frame; a convincing alternative uses the appropriate Trait.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 660.4 Tm (Run Action Cards and complications using SWADE. In round 2, two rift leeches) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 645.2 Tm (attach to exposed feeds. A player can remove, lure, or fight them, or Support) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 630 Tm (someone doing it. Explain each rule at the moment it becomes useful. Do not) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 614.8 Tm (require every character to possess technical skills.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 589.6 Tm (Clue: The feed display counts three pulses between neighboring realities.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 555.4 Tm (3. Let the first mistake matter) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 523.1 Tm (Offer: Bring Mark through. Ask the players which thing they protect when the portal) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 507.9 Tm (kicks.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 482.7 Tm (On success, Mark arrives and the crew secures the frame. If the goal is missed) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 467.5 Tm (or the task ends early, he still arrives; choose one cost with the players: the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 452.3 Tm (frame is ruined, a leech remains loose, or a harmless but unsettling patch of wrong) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 437.1 Tm (weather follows him. Use a brief combat with remaining leeches only if the group) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 421.9 Tm (wants that tutorial. Mark describes contradictory corridors and a hard departure) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 406.7 Tm (window. He knows nothing about Calder's purchase.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 381.5 Tm (Clue: Time windows and current can guide a route, but neither supplies a destination.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 347.3 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 315 Tm (Success: Mark returns; the working frame can later supply a spare anchor.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 289.8 Tm (Partial success: Mark returns with one chosen cost. Record it and make it visible in) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 274.6 Tm (Session 1.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 249.4 Tm (Failure route: Mark returns after a destructive kick. The crew salvages the route) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 234.2 Tm (notebook and continues. An injured or Incapacitated hero is handled with core rules) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 219 Tm (and care; failure does not erase their agency.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 184.8 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 152.5 Tm (Spend the next gathering with the Chicago the crew wanted to come home to. End) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 137.3 Tm (this one on reunion, not the ownership explanation.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 7) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 3796 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 1 - Chicago Is Safe) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act I - The city slips. Make the ten quiet years matter before reality becomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (visibly unreliable.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (The city looks like home. The train arrives when the sign says it will. A shopkeeper) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (knows your order. Then a street name changes while you are looking at it, and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (everybody else seems certain it was always that way.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- Continuity errors cluster near newly installed weatherization panels.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- At least one witness remembers the change. Public records insist nothing) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 456.6 Tm (changed.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 426.4 Tm (1. Visit something worth saving) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 394.1 Tm (Offer: Use a place the players chose on their reunion sheets.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 368.9 Tm (Invite each player to introduce one local person, then confirm the invention with the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 353.7 Tm (group. Mark can tell one fragment from his route without a lore monologue. Use) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 338.5 Tm (Persuasion, Common Knowledge, or Research only when a character takes a risk or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 323.3 Tm (wants privileged access. Ordinary friendly conversation succeeds without dice. Introduce) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 308.1 Tm (contractor stickers on replacement panels as scenery.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 282.9 Tm (Clue: The same contractor seal appears on two apparently unrelated repairs.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 248.7 Tm (2. One harmless error, then one costly error) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 216.4 Tm (Offer: Change a sign; then let a crossing briefly lead to the wrong platform.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 191.2 Tm (Give the group an obvious observation first: the station announcement names a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 176 Tm (street that nobody agrees about. Next, one civilian is stranded on a platform visible) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 160.8 Tm (through an impossible doorway. A cooperative rescue uses one suitable Trait roll per) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 145.6 Tm (participating hero or a core Quick Encounter. A failed roll costs the crew a broken) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 130.4 Tm (tool, attention from security, or extra time; the civilian remains reachable through a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 115.2 Tm (mundane service exit. Never require a roll to notice the doorway.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 90 Tm (Clue: The civilian saw the panel crew working before the error began.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 8) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 2580 >>
+stream
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 707 Tm (3. The first undeniable cartoon) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 674.7 Tm (Offer: Introduce Pip, an original toon-bodied person, carrying a painted umbrella.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 649.5 Tm (Pip steps through the platform door. Their shadow takes a moment to catch up.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 634.3 Tm (They are frightened, capable of explaining their own needs, and not an enemy. Ask) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 619.1 Tm (whether the crew offers shelter, containment, investigation, or an escort. Each is a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 603.9 Tm (valid next action. A failed Persuasion roll makes Pip cautious; food, patience, or a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 588.7 Tm (trusted witness earns a second conversation without another required check.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 563.5 Tm (Clue: Pip's neighborhood is real too. Its physical rules were separate until the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 548.3 Tm (shaking began.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 514.1 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 481.8 Tm (Success: The crew has a witness, an ally, and a panel seal to investigate.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 456.6 Tm (Partial success: The cartoon arrival is witnessed publicly. Contractors can identify the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 441.4 Tm (crew; Pip still offers the essential information.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 416.2 Tm (Failure route: The crew loses Pip in the confusion. Pip leaves the umbrella and a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 401 Tm (route mark; a civilian witness can lead them to the next incursion.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 366.8 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 334.5 Tm (Give the crew its first Advance. Ask how it prepares for another overlap, then) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 319.3 Tm (bring the cartoon gathering to a chosen neighborhood.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 9) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 3499 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 2 - Ink and Paint) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act I - The city slips. Make coalescence tangible through rescue, containment, and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (conflicting physical rules.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (A bus brakes for a painted crosswalk. The crosswalk lifts off the road like a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (ribbon. On one side, people run as if gravity has stopped listening. On the other,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (people are still expecting gravity to work.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- Calder Restoration delivered specialized replacement panels before the incident.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- A Thompson environmental-control routing mark is on the dispatch sheet.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 441.6 Tm (Visible clock: Public danger) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 409.3 Tm (6 boxes. Fill one box when a rescue round ends with nobody addressing civilians. At) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 394.1 Tm (the limit: A second group becomes stranded. Rescue remains possible; ask which group) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 378.9 Tm (the heroes reach first.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 344.7 Tm (1. Establish the local physics) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 312.4 Tm (Offer: Show one reversible oddity before anyone risks their life.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 287.2 Tm (A ladder can bend without breaking, a painted door opens onto the other side of) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 272 Tm (the same wall, and falling objects hang for one heartbeat before dropping. Keep) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 256.8 Tm (those three rules consistent for the encounter. Let harmless testing establish them) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 241.6 Tm (without rolls. A risky crossing uses Athletics, a suitable technical skill, or a player's) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 226.4 Tm (creative proposal. Announce a failed crossing's cost before the roll; an ally or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 211.2 Tm (alternate door prevents an instant dead end.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 186 Tm (Clue: Pip recognizes the neighborhood as a real place, not a hallucination or invading) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 170.8 Tm (army.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 136.6 Tm (2. Save the people on both sides) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 104.3 Tm (Offer: Offer three jobs: anchor the bus, open an escape route, and hold the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 89.1 Tm (unstable boundary.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 10) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 23 0 R >>
+endobj
+25 0 obj
+<< /Length 3740 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (Rescue task: 8 group Task Tokens in 4 rounds. Use appropriate Athletics, Electronics,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (Repair, or Persuasion actions; Persuasion can organize panicking people, not command) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (physics. A falling-sign hazard occurs once in round 2: tell everyone beneath it first,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 670.4 Tm (then allow an Agility roll to get clear; failure deals 2d6 damage. Heroes who move) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 655.2 Tm (civilians out of that area prevent it without damage rolls. Contractors arrive to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 640 Tm (seize Pip, one per hero. They prefer restraint and can be persuaded that evacuation) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 624.8 Tm (outranks their order.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 599.6 Tm (Clue: A contractor says, "They told us what would be damaged before the first call) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.4 Tm (came in.") Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 550.2 Tm (3. Follow the cleanup) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 517.9 Tm (Offer: Put Handout 2 in front of the group.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 492.7 Tm (The dispatch paper is automatically available from an abandoned kit, a cooperative) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (worker, or a supervisor's public notice. Research verifies the order timing; a raise) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 462.3 Tm (names a second matching job. A failure still confirms the before-and-after sequence) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (but attracts Calder's attention. Helping the contractors get home makes a crew) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 431.9 Tm (contact available later. Defeating them yields the same paper, without the ally.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 406.7 Tm (Clue: The job is profitable, predicted, and connected to Thompson.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 372.5 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 340.2 Tm (Success: Civilians escape and the boundary stabilizes. Pip or a contractor volunteers) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 325 Tm (evidence.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 299.8 Tm (Partial success: Choose damaged property or a stranded civilian group. The crew gets) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 284.6 Tm (the dispatch paper and can mount a second rescue.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 259.4 Tm (Failure route: A larger rescue is needed, not an erased population. A witness carries) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 244.2 Tm (the paper to the crew. Record which people need help and move the investigation) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 229 Tm (forward.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 194.8 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 162.5 Tm (The players now know who profits. Let them choose the first investigative route in) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 147.3 Tm (Session 3.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 11) Tj ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 25 0 R >>
+endobj
+27 0 obj
+<< /Length 3941 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 3 - Shake the Snow Globe) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act II - Somebody owns this place. Turn separate emergencies into an acquisition) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (mystery without betting it on one roll.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (The repair invoice is routine. Same company. Same surcharge. Same "unexpected") Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (emergency. The delivery time is the strange part: the replacement supplies arrived) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (before the city knew anything was broken.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- The municipal business profits from predicted shakes.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- An external owner can move the city's boundary; the human beneficiary is not) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 456.6 Tm (the eligible bidder.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 426.4 Tm (1. Offer three ways into the pattern) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 394.1 Tm (Offer: Records desk, repair depot, or incursion witness. Let the group choose.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 368.9 Tm (At the records desk, Inez shares public invoices; Research adds the matching shell) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 353.7 Tm (account. At the depot, workers share the kit schedule; Stealth or Persuasion secures) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 338.5 Tm (a private manifest. At the witness site, someone points out the equipment that) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 323.3 Tm (pulsed just before the air changed; Electronics explains its connection to Thompson.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 308.1 Tm (Each route supplies the core pattern automatically. Failed rolls cost access, time, or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 292.9 Tm (discretion. Use contractors only if a confrontation develops; they are witnesses as) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 277.7 Tm (well as obstacles.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 252.5 Tm (Clue: Three incidents share an equipment serial and a Thompson control destination.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 218.3 Tm (2. Show the hand outside) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 186 Tm (Offer: A window reflection shows the whole skyline tilted in a curved glass wall.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 160.8 Tm (An announced shake gives the crew a short rescue or observation choice. A hero who) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 145.6 Tm (protects someone gets a clear view of the external shape; another can secure the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 130.4 Tm (equipment. Use an ordinary roll for either risky action. No roll is needed to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 115.2 Tm (understand that the event is deliberate. A failed observation still leaves a recording) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 100 Tm (from a witness, but the crew is identified by the control network.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 74.8 Tm (Clue: The incident is someone exercising a privilege, not a machine breaking at) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 12) Tj ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 27 0 R >>
+endobj
+29 0 obj
+<< /Length 2896 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (random.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 681.8 Tm (3. Confront the beneficiary) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 649.5 Tm (Offer: Calder offers a job before he offers a threat.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 624.3 Tm (He says the city needs someone who can arrange reliable recovery. If exposed, he) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 609.1 Tm (attempts to reach Thompson, where normal jurisdiction fails. Do not give him an) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 593.9 Tm (automatic escape: capture, negotiation, surrender, or defeat are valid. If the players) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 578.7 Tm (capture him, his key and the records direct them to Thompson anyway. If he dies,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 563.5 Tm (a deputy contractor has the routing order. A core Social Conflict or a short chase) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 548.3 Tm (can resolve opposition; the result changes his leverage, not whether the maze exists.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 523.1 Tm (Clue: Calder says someone else did the bidding and expects to be paid in) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 507.9 Tm ("enrichment.") Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 473.7 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 441.4 Tm (Success: The crew secures the key or a cooperative guide and enters Thompson with) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 426.2 Tm (leverage.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 401 Tm (Partial success: Calder reaches Thompson first. The party has the destination and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 385.8 Tm (records, but custodians expect them.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 360.6 Tm (Failure route: The crew is publicly blamed for a disruption. Inez supplies a service) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 345.4 Tm (entrance and proof. That accusation is fictional fallout; it cannot remove every) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 330.2 Tm (action the players can take.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 296 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 263.7 Tm (Give the second milestone Advance. Keep Calder's fate and the workers' loyalties when) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 248.5 Tm (preparing the maze.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 13) Tj ET
+endstream
+endobj
+30 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 29 0 R >>
+endobj
+31 0 obj
+<< /Length 3616 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 4 - The Thompson Center Maze) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act II - Somebody owns this place. Make the location reveal the purchase, the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (shaking rights, and a way to break the boundary.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (The ticket says your number will be called shortly. It has been printed on a leaf,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (a boarding pass, and a municipal parking citation. Across the atrium, three offices) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (occupy the same door. All three say you need the other office first.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- Up died accidentally; his estate auction sold the inhabited holding.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- The Keeper's compensation includes shaking rights.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 455.6 Tm (- The control seam can be cracked by a tuned beam without relocating Chicago.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 425.4 Tm (Visible clock: Maze shift) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 393.1 Tm (4 boxes. Fill one box for a repeated route without a changed method, or a delay) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 377.9 Tm (the crew knowingly accepts. At the limit: Custodians arrive, one per two heroes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 362.7 Tm (rounded up. Other routes remain open.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 328.5 Tm (1. Choose a route through jurisdiction) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 296.2 Tm (Offer: Use the node map. Start at A and visibly offer B or C.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 271 Tm (Calder's key admits the crew to one node without a roll. At B, an elven departures) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 255.8 Tm (queue contains stranded travelers; helping them gains a transit badge and a route to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 240.6 Tm (D. At C, Inez or an estate clerk provides the ledger. A roll can speed either) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 225.4 Tm (route or preserve discretion. Failure fills the shift clock once and opens the other) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 210.2 Tm (route. Never send the party back to the start as its only consequence. Security) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 195 Tm (can be persuaded, bypassed, or fought.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 169.8 Tm (Clue: The bidder's name and the beneficiary's name occupy different columns.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 135.6 Tm (2. Make the deal legible) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 103.3 Tm (Offer: Reveal Handout 3. Answer questions plainly.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 78.1 Tm (An eligible higher-dimensional Keeper bid for Calder. The arrangement gave the Keeper) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 14) Tj ET
+endstream
+endobj
+32 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 31 0 R >>
+endobj
+33 0 obj
+<< /Length 3550 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (Chicago as a living snow globe. Up's death was a stupid accident; there is no murder) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (solution hiding behind it. Research or Persuasion can discover a severance record or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (an enforcement weakness, but the central facts need no roll. If the crew tries a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 670.4 Tm (legal cancellation, let it suspend one shake or free one custodian. Complete) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 655.2 Tm (invalidation of ownership still requires reaching the seam in this edition.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 630 Tm (Clue: A person's presence in a ledger does not make the ownership legitimate.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 595.8 Tm (3. Choose what to disable) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 563.5 Tm (Offer: At D, offer the shake switch or the path to Calder. At E, offer the seam) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 548.3 Tm (diagram.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 523.1 Tm (Electronics or Repair disables a local shake feed; a creative physical bypass can work) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 507.9 Tm (too. Success prevents the first extra hazard at the accelerator. Failure costs a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 492.7 Tm (tool or brings a custodian; the seam diagram remains readable. It names the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (fictional Loop Resonance Works, and a clear note distinguishes cracking the ownership) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 462.3 Tm (boundary from moving the city. A surviving Calder can bargain, surrender the key,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (or be escorted out. Keep choices about him in the players' hands.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 421.9 Tm (Clue: The heroes may be flung outside when the boundary breaks. Chicago can remain) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 406.7 Tm (in Chicago.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 372.5 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 340.2 Tm (Success: The party has the diagram, route, and one disabled feed or allied custodian.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 315 Tm (Partial success: They have the route but must evacuate people or bring Calder with) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 299.8 Tm (them.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 274.6 Tm (Failure route: They escape through a service passage with the essential diagram.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 259.4 Tm (Pursuit costs them the easy accelerator entrance; it does not hide the objective.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 225.2 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 192.9 Tm (Ask who they want to protect when they fire. Prepare the accelerator around that) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 177.7 Tm (choice.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 15) Tj ET
+endstream
+endobj
+34 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 33 0 R >>
+endobj
+35 0 obj
+<< /Length 3581 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 5 - Crack the Bottle) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act II - Somebody owns this place. Give the whole party simultaneous jobs while) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (freeing the city from ownership.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (The control display shows a seam through the city, but the line belongs to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (something larger than the map. The engineer points to three feeds. "Power. Aim.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (Containment. You can get two wrong and still make a terrible noise.") Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- The seam and the earthquake are different problems.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- A correct shot severs ownership; the city does not have to leave its physical) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 456.6 Tm (place.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 426.4 Tm (Visible clock: Earthquake) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 394.1 Tm (6 boxes. Fill one box after each activation round. Add one extra only for an) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 378.9 Tm (explicitly announced containment mishap. At the limit: A ground hazard strikes and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 363.7 Tm (evacuation becomes urgent. The team can still fire.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 329.5 Tm (1. Reach the fictional test hall) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 297.2 Tm (Offer: Use Loop Resonance Works, a fictional installation. Show three feeds and two) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 282 Tm (exits.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 256.8 Tm (Dr. Vale can explain the fantasy physics, but does not operate every station for) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 241.6 Tm (the heroes. There is no real accelerator schematic or real-world firing procedure) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 226.4 Tm (here. The group chooses power, calibration, containment, evacuation, and protection. An) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 211.2 Tm (allied custodian holds an entrance; an allied contractor opens an exit. If the crew) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 196 Tm (disabled Thompson's shake feed, the first hazard is only a warning. Otherwise a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 180.8 Tm (falling panel threatens the service route: announce it and allow Athletics or Repair) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 165.6 Tm (to protect that route.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 140.4 Tm (Clue: The beam targets a higher-dimensional ownership seam, not residents or a real) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 125.2 Tm (geological weapon.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 91 Tm (2. Activate under pressure) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 16) Tj ET
+endstream
+endobj
+36 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 35 0 R >>
+endobj
+37 0 obj
+<< /Length 4316 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (Offer: Use a Dramatic Task alongside initiative for interference.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 690.8 Tm (Group goal: 12 Task Tokens in 4 rounds. Electronics calibrates or energizes; Repair) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 675.6 Tm (contains; Athletics braces; Persuasion organizes evacuation. Each action needs a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 660.4 Tm (concrete job. Support works normally and does not itself earn tokens. Two rift) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 645.2 Tm (leeches interfere in round 2; contractors equal to half the heroes, rounded up,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 630 Tm (arrive in round 3 unless an ally or agreement keeps them away. Fill one earthquake) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 614.8 Tm (box after each round. Announce a containment mishap before a risky attempt; a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 599.6 Tm (Critical Failure on that attempt adds one extra box as well as the core task) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.4 Tm (consequence. Apply other core complications normally.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 559.2 Tm (Clue: The seam display opens a channel out of the bottle as calibration approaches) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 544 Tm (its goal.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 509.8 Tm (3. Choose a cost and let the world open) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (Offer: At the task's end, resolve the seam and quake separately.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 452.3 Tm (If the goal is reached, the seam cracks. If not, allow one clearly offered) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 437.1 Tm (emergency firing: it cracks the seam at the cost of damaging the hall and filling) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 421.9 Tm (the earthquake clock. A crew that refuses can evacuate, regroup, and retry with a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 406.7 Tm (portable salvaged feed; this costs a scene, not a new campaign. At six quake boxes,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 391.5 Tm (everyone in an exposed area gets one announced Agility roll to reach cover; failure) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 376.3 Tm (deals 2d6 damage. A successful evacuation action protects the civilians automatically.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 361.1 Tm (The boundary then throws the heroes onto a service platform outside. The city) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 345.9 Tm (remains where it belongs.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 320.7 Tm (Clue: An auction service plate on the platform can become a vessel and a route) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 305.5 Tm (instrument.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 271.3 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 239 Tm (Success: Chicago is freed; the heroes reach the archipelago with a stable vessel) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 223.8 Tm (component.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 198.6 Tm (Partial success: The city is freed with repair needs or missing equipment. Allies) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 183.4 Tm (evacuate survivors; the voyage has an extra repair beat.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 158.2 Tm (Failure route: An emergency firing or second attempt frees the city at a severe) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 143 Tm (local cost. If the party declines both, use the retreat and retry route. Do not) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 127.8 Tm (narrate them into an action they refused.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 93.6 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 17) Tj ET
+endstream
+endobj
+38 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 37 0 R >>
+endobj
+39 0 obj
+<< /Length 570 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (Give the third milestone Advance. Describe the primordial sea and let the players) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (name their improvised vessel.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 18) Tj ET
+endstream
+endobj
+40 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 39 0 R >>
+endobj
+41 0 obj
+<< /Length 3610 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 6 - Adrift in the Universe) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act III - Adrift, then home. Teach timed crossings while making outside realities) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (into places with people.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (The platform floats above a foggy sea. Far away, a school, a wood, and a lit train) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (carriage drift on separate horizons. Your route instrument pulses once. Mark stops) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (talking. "We have until the third one.") Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- Every useful slide has a brief window and needs an anchor at both ends.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- A home signal can use a chosen Chicago place as its address.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 441.6 Tm (Visible clock: Slide departure) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 409.3 Tm (6 boxes. Fill one box after each meaningful travel beat or local choice, not after) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 394.1 Tm (each individual roll. At the limit: The window closes. Wait for the next one with a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 378.9 Tm (cost, or use another island route.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 344.7 Tm (1. Build a way to travel) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 312.4 Tm (Offer: Turn the auction platform into a skiff, ferry, or other group-chosen vessel.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 287.2 Tm (Establish a power source, a steerable surface, and a route instrument. Each needs) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 272 Tm (one suitable successful Trait roll, with Support welcome. A failure adds a repair beat) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 256.8 Tm (and a chosen limitation, not destruction. Mark can energize a compatible component) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 241.6 Tm (while a hero navigates or repairs; another electrical or mechanical method works if) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 226.4 Tm (he is absent. Reveal Handout 4. The foggy sea is fantastical; do not impose realistic) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 211.2 Tm (cryogenic lethality on this adapted novel imagery.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 186 Tm (Clue: A place the players named in Session 0 is recognizable as a destination signal.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 151.8 Tm (2. Choose two stops, not a tour checklist) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 119.5 Tm (Offer: Offer the stranded train, elven departures, and the auction dock. The crew) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 104.3 Tm (chooses its route.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 79.1 Tm (At the train, saving passengers costs two beats and earns a signal lamp; leaving) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 19) Tj ET
+endstream
+endobj
+42 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 41 0 R >>
+endobj
+43 0 obj
+<< /Length 3774 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (costs one and leaves an ally unresolved. At departures, two custodians demand a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (badge; negotiation, showing the ledger, or a short fight earns a route stamp. At the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (dock, an abandoned lot offers spare anchors; searching costs a beat, and the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 670.4 Tm (repossessor can offer a shortcut in exchange for a future ownership claim. Let) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 655.2 Tm (players reject it. Each local problem uses one or two ordinary rolls or a core Quick) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 640 Tm (Encounter. Reset the slide clock when arriving at a new stop.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 614.8 Tm (Clue: The lamp, stamp, or anchor identifies a home route. Any one supplies the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 599.6 Tm (essential direction; two make the finale's first calibration easier.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 565.4 Tm (3. Leave before the slide closes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 533.1 Tm (Offer: Show six boxes and state the current departure pressure.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 507.9 Tm (Crossing uses one navigation roll and one anchoring roll, with suitable skills and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 492.7 Tm (Support. Success and failure change the crossing's cost. At six boxes, the current) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (window closes: wait for the next cycle and add a repair or rescue problem, or go) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 462.3 Tm (by the other offered route. If both anchors are lost, the crew is marooned between) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (realities; a visible drifting cable can be caught with Athletics, or an ally can pull) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 431.9 Tm (them to a nearby island. No single failed roll ends the voyage. End when they know) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 416.7 Tm (the home signal and see the final route.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 391.5 Tm (Clue: Getting home must not reconstruct the city's enclosure.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 357.3 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 325 Tm (Success: The crew has a clear home signal and two helpful preparations.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 299.8 Tm (Partial success: They have the signal with damaged gear or an ally to return for.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 284.6 Tm (Preserve that promise for the epilogue.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 259.4 Tm (Failure route: A missed slide changes the route. They recover at another island,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 244.2 Tm (obtain the signal from a beacon, and begin Session 7 with one repair beat.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 210 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 177.7 Tm (Ask what message the crew wants Chicago to hear. Make it the centerpiece of the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 162.5 Tm (final gathering.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 20) Tj ET
+endstream
+endobj
+44 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 43 0 R >>
+endobj
+45 0 obj
+<< /Length 3476 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (Session 7 - Message in a Bottle) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (Act III - Adrift, then home. Pay off the voyage and the electrical motif without) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (returning the city to captivity.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 617.2 Tm (Opening) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.9 Tm (The city answers your signal. There are people at the other end, not a glass wall.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 569.7 Tm (A second voice interrupts: "We can make your passage quite safe. All we need is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 554.5 Tm (the old boundary.") Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 520.3 Tm (Essential clues) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 488 Tm (- The Keeper's safe passage bargain would restore ownership.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 471.8 Tm (- The tether is a mechanism the heroes can disable, not an invincible monster to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 456.6 Tm (defeat.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 426.4 Tm (Visible clock: Final tether) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 394.1 Tm (4 boxes. Fill one box after a finale round while the tether remains active. At the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 378.9 Tm (limit: The repossessor boards. Disabling the tether remains available.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 344.7 Tm (1. Make home recognize them) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 312.4 Tm (Offer: Ask each hero for one line of the message and one contribution to the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 297.2 Tm (crossing.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 272 Tm (The route requires the group's chosen place name and three long flashes plus one) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 256.8 Tm (short. Electronics, Repair, Persuasion, or a justified other skill can send, stabilize, or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 241.6 Tm (coordinate the signal. If the crew gained two preparations in Session 6, give +1 to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 226.4 Tm (the first calibration attempt. If Mark is a player, let that player choose the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 211.2 Tm (electrical contribution; if he is an NPC, he supplies current while the heroes make) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 196 Tm (the decisions. Missing gear can be replaced with a visible cable and one repair beat.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 170.8 Tm (Clue: Residents on the other side can anchor the destination without enclosing it.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 136.6 Tm (2. Resist the last claim) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 104.3 Tm (Offer: The repossessor attaches a visible tether. Put its target terminal within) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 89.1 Tm (reach.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 21) Tj ET
+endstream
+endobj
+46 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 45 0 R >>
+endobj
+47 0 obj
+<< /Length 4434 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (The agent offers safe passage for a renewed boundary, then attempts enforcement) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (if refused. Use its original profile. The heroes may fight, bargain for time,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (demonstrate the severance, or disable the tether with Electronics or Repair at -2.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 670.4 Tm (The terminal has Toughness 6 and can be broken; no need to kill the agent. The) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 655.2 Tm (task to align and cross requires 8 group Task Tokens in 3 rounds using core rules.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 640 Tm (A hero who addresses the tether has a clear competing job; Support counts) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 624.8 Tm (normally. Fill the four-box tether clock only while the anchor remains attached.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 599.6 Tm (Clue: The agent's legal assumption can be rejected; the city's people are not valid) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 584.4 Tm (collateral.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 550.2 Tm (3. Resolve the crossing, then listen) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 517.9 Tm (Offer: Use the crew's actual choices to determine the ending.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 492.7 Tm (Goal met with tether disabled: return freely. Goal met with tether active: the bow) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (crosses but the vessel remains held; residents help stabilize it while the heroes take) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 462.3 Tm (one last scene to sever the terminal or force a release. Goal missed: the final) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (window closes, leaving an anchored island and a new cycle; accept a damaged vessel) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 431.9 Tm (or a delayed homecoming, then try again after a concrete repair. A crew that) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 416.7 Tm (accepts the bad bargain gets a compromised ending, with the ownership problem) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 401.5 Tm (explicitly unresolved. Do not call that freedom. At home, ask each player for one) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 386.3 Tm (changed relationship and one place they visit first.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 361.1 Tm (Clue: The intended victory is freedom plus homecoming. A warm welcome cannot hide) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 345.9 Tm (a renewed cage.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 311.7 Tm (Outcomes) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 279.4 Tm (Success: Chicago is safe because it belongs to its people. The heroes return, and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 264.2 Tm (residents publicly acknowledge what they did.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 239 Tm (Partial success: The city is free; the heroes return later or with damage, and keep) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 223.8 Tm (a promise to rescue an ally. Give them a route to honor it.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 198.6 Tm (Failure route: They remain temporarily anchored outside, or knowingly accept the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 183.4 Tm (Keeper's bargain. State the cost honestly. Offer the repair-and-retry route; never) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 168.2 Tm (turn one unlucky roll into an unannounced total-party death.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 134 Tm (Before the next gathering) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 101.7 Tm (Close on player epilogues. Record which places, people, and promises survived. Ask) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 86.5 Tm (what should change before anyone calls this edition playtested.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 22) Tj ET
+endstream
+endobj
+48 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 47 0 R >>
+endobj
+49 0 obj
+<< /Length 4407 >>
+stream
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 703 Tm (NPC profiles) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 666.6 Tm (All profiles below are original builds for this edition. Attributes, skills, Pace, Parry,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 651.4 Tm (and Toughness use SWADE conventions. Wild Card and Extra are rules labels; use) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 636.2 Tm (the core book for how each works. Unlisted skills use the core unskilled procedure.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 621 Tm (Damage marked Str+d4 or Str+d6 uses the character's Strength die. Armor is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 605.8 Tm (included in Toughness and shown in parentheses. Listed gear is deliberately simple;) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 590.6 Tm (substitute equipment from your own core book when appropriate.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 556.4 Tm (Mark, returning hero - Wild Card) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 524.1 Tm (Use only if Mark is not a player character. He is glad to be home, frightened of) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 508.9 Tm (going back outside, and unwilling to treat the displaced as disposable.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 483.7 Tm (Attributes: Agility d6, Smarts d8, Spirit d8, Strength d6, Vigor d6. Skills: Athletics) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 468.5 Tm (d6, Common Knowledge d6, Electronics d8, Fighting d4, Notice d6, Persuasion d6,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 453.3 Tm (Repair d6, Stealth d4. Pace: 6. Parry: 4. Toughness: 5. Hindrances: Loyal. Edges:) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 438.1 Tm (None. Gear: A scorched coat, insulated tools, a pocket notebook; improvised tool,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 422.9 Tm (Str+d4.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 397.7 Tm (Navigation fiction: Mark can feed his electrical current into a compatible device. This) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 382.5 Tm (is not a general combat power or a new Arcane Background. Roll his Electronics) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 367.3 Tm (when he operates that device. He can Support; he cannot replace a player's action.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 352.1 Tm (If a player wants a fully powered Mark, agree a core-rules character build and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 336.9 Tm (Trappings separately. No proprietary power text is included here.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 302.7 Tm (Contractor, security operative - Extra) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 270.4 Tm (A worker following an emergency contract, not automatically a murderer. Most) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 255.2 Tm (surrender or retreat when abandoned. A persuaded crew may become an ally.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 230 Tm (Attributes: Agility d6, Smarts d4, Spirit d6, Strength d6, Vigor d6. Skills: Athletics) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 214.8 Tm (d6, Fighting d6, Notice d6, Persuasion d4, Repair d6, Shooting d6, Stealth d4. Pace:) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 199.6 Tm (6. Parry: 5. Toughness: 6 \(1\). Hindrances/Edges: None. Gear: Protective vest, Armor) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 184.4 Tm (1; tool baton, Str+d4; insulated net, use a core grappling or improvised restraint) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 169.2 Tm (resolution. No firearm is required for any scene in this campaign.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 135 Tm (Custodian, dimensional security - Extra) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 102.7 Tm (A person paid to protect a jurisdiction they only partly understand. Their priority is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 87.5 Tm (their own exit route, then their assigned checkpoint.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 23) Tj ET
+endstream
+endobj
+50 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 49 0 R >>
+endobj
+51 0 obj
+<< /Length 4846 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (Attributes: Agility d6, Smarts d6, Spirit d4, Strength d8, Vigor d8. Skills: Athletics) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 700.8 Tm (d6, Fighting d6, Intimidation d6, Notice d6, Repair d4. Pace: 6. Parry: 5. Toughness:) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 685.6 Tm (8 \(2\). Hindrances/Edges: None. Gear: Protective coat, Armor 2; heavy baton, Str+d4;) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 670.4 Tm (transit badge. Tactic: Guard an exit, warn once, and withdraw if the contract is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 655.2 Tm (visibly cancelled. Persuasion or a convincing forged order can end the encounter) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 640 Tm (without fighting.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 605.8 Tm (Rift leech - Extra) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 573.5 Tm (An original creature resembling a wasp assembled from electrical insulation. Treat its) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 558.3 Tm (tangled cable mass as Size 0 for this profile. It feeds on current, not on moral) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 543.1 Tm (alignment. A spare battery can draw it away.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 517.9 Tm (Attributes: Agility d8, Smarts d4 \(animal\), Spirit d6, Strength d4, Vigor d4. Skills:) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 502.7 Tm (Athletics d8, Fighting d6, Notice d6, Stealth d8. Pace: 6 \(flight\). Parry: 5.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 487.5 Tm (Toughness: 4. Hindrances/Edges: None. Gear: None. Attack: Bite, Str+d4. Custom ability:) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 472.3 Tm (While a leech is attached to a live cable, that feed cannot contribute to a task.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 457.1 Tm (An adjacent character may remove it with a successful Athletics or Repair roll as) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 441.9 Tm (an action, or lure it away with another live source without a roll. It has no) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 426.7 Tm (unexplained immunity or copied creature abilities.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 392.5 Tm (Calder, fictional mayor - Wild Card) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 360.2 Tm (This is a fictional antagonist, not a claim about a real politician or family. He) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 345 Tm (wants ordinary status and unlimited control over the disasters that make him look) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 329.8 Tm (useful.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 304.6 Tm (Attributes: Agility d6, Smarts d8, Spirit d8, Strength d6, Vigor d6. Skills: Athletics) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 289.4 Tm (d4, Common Knowledge d8, Electronics d6, Fighting d4, Intimidation d6, Notice d6,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 274.2 Tm (Persuasion d8, Repair d6, Research d6, Stealth d4. Pace: 6. Parry: 4. Toughness: 5.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 259 Tm (Hindrances: Greedy \(Major\). Edges: None. Gear: Auction key, emergency procurement) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 243.8 Tm (book, portable radio; improvised briefcase attack, Str+d4. Tactic: Offer jobs, invoke) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 228.6 Tm (procedure, retreat behind contractors. He is not a super-powered combat boss.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 194.4 Tm (The repossessor - Wild Card) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 162.1 Tm (The Keeper's field agent. Courteous, precise, and incapable of seeing a resident as) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 146.9 Tm (anything but inventory until someone makes that assumption costly.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 121.7 Tm (Attributes: Agility d8, Smarts d10, Spirit d8, Strength d6, Vigor d8. Skills: Athletics) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 106.5 Tm (d6, Common Knowledge d8, Electronics d8, Fighting d8, Intimidation d8, Notice d8,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 91.3 Tm (Persuasion d8, Repair d6, Research d8, Stealth d6. Pace: 6. Parry: 6. Toughness: 8) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 76.1 Tm (\(2\). Hindrances/Edges: None. Gear: Boundary coat, Armor 2; tuning rod, Str+d6; a) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 24) Tj ET
+endstream
+endobj
+52 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 51 0 R >>
+endobj
+53 0 obj
+<< /Length 4277 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 716 Tm (portable jurisdiction stamp.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 690.8 Tm (Custom jurisdiction anchor: The rod sustains one visible tether attached to the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 675.6 Tm (vessel. An adjacent hero can disable it with Electronics or Repair at -2, break the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 660.4 Tm (exposed terminal \(Toughness 6\), or get the agent to release it. Disabling the tether) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 645.2 Tm (does not require defeating the agent. The agent is not immune to ordinary combat) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 630 Tm (or Tests. It leaves if the boundary is severed and it has no defensible contract.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 595.8 Tm (Allies and the Keeper) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 563.5 Tm (The records clerk Inez, cartoon resident Pip, and engineer Dr. Vale are original) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 548.3 Tm (supporting names for this edition. Give an ally d6 in a relevant skill when a roll is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 533.1 Tm (needed; they supply access, context, or a single Support action, not Task Tokens on) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 517.9 Tm (behalf of an absent player. Pip does not have to be comic relief.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 492.7 Tm (The Vivarium Keeper is a remote antagonist. Do not give it a huge combat profile) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (and turn the ending into a fight with an unkillable creature. Its actions arrive) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 462.3 Tm (through a shake, a contract, a tether, or an agent: specific things the heroes can) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 447.1 Tm (confront. Its baseline is a collector who calls danger enrichment. If your table) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 431.9 Tm (prefers the Cruel Naturalist or the Spectator, change the voice and motive, not the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 416.7 Tm (established clues or shaking rights.) Tj ET
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 378.5 Tm (Table reference) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 333.1 Tm (The Thompson Center node map) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 300.8 Tm (This is a fictional encounter map, not a plan of the real building. Each connection) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 285.6 Tm (takes one scene transition; do not measure a real pedestrian route.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 260.4 Tm (Node / Exits / Question or pressure) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 240.2 Tm (A - Ticket hall / B, C / Whose jurisdiction is this?) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 220 Tm (B - Elven departures / A, D / Save stranded travelers or accept a shortcut?) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 199.8 Tm (C - Municipal records / A, D / Who is paid, and who is named as owner?) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 179.6 Tm (D - Weatherization floor / B, C, E / Disable the shake controls or follow Calder?) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 159.4 Tm (E - Control seam / D; accelerator route / What do the heroes need to free the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 144.2 Tm (city?) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 119 Tm (A closed route always has the other listed route. A clerk can redirect a lost group) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 103.8 Tm (to C. The maze's shift clock creates a cost, not an infinite random walk. The GM) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 88.6 Tm (runner tracks scene completion independently of clock pressure.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 25) Tj ET
+endstream
+endobj
+54 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 53 0 R >>
+endobj
+55 0 obj
+<< /Length 4316 >>
+stream
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 707 Tm (Pressure ledger) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 674.7 Tm (Clock / Boxes / Fill a box when / At the limit) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 654.5 Tm (Portal instability / 3 / A full tutorial task round ends below the goal / Mark) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 639.3 Tm (arrives with collateral trouble) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 619.1 Tm (Public danger / 6 / A rescue round ends with nobody addressing civilians / Another) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 603.9 Tm (group needs rescue; do not silently kill them) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 583.7 Tm (Maze shift / 4 / The group repeats a route without changing method, or accepts a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 568.5 Tm (listed delay / Custodians arrive; the exit remains reachable) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 548.3 Tm (Earthquake / 6 / An accelerator round ends; add one extra on a stated) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 533.1 Tm (containment mishap / Ground hazard and evacuation; firing remains possible) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 512.9 Tm (Slide departure / 6 / A travel beat finishes, including rescue or repairs / Window) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 497.7 Tm (closes; use the missed-window route) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 477.5 Tm (Final tether / 4 / A finale task round ends while the tether remains / The agent) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 462.3 Tm (boards; keep the final objective available) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 437.1 Tm (These are manual scene clocks, not actual-minute timers. The runner's session timer) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 421.9 Tm (is a pacing aid and does not fill them automatically.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 387.7 Tm (Encounter scaling and review) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 355.4 Tm (Start with one contractor per hero in scenes that call for contractors; use half) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 340.2 Tm (that many custodians, rounded up, when a threat also shares a timer. Add the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 325 Tm (repossessor only at the finale. Never add every possible enemy from the appendix to) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 309.8 Tm (one scene.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 284.6 Tm (Run one dry pass before inviting a table: follow the clues without rolls, take the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 269.4 Tm (failure exit from the portal, skip one travel window, and end with the tether intact.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 254.2 Tm (The campaign must still have a next action in every case. That structural check is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 239 Tm (not a playtest. Damage balance, actual pacing, and the emotional effect of the) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 223.8 Tm (ending require people playing.) Tj ET
+0.08 0.13 0.17 rg BT /F2 13.3 Tf 1 0 0 1 54 189.6 Tm (Between gatherings) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 157.3 Tm (- Write down the revealed clues, chosen costs, surviving allies, and one thing a) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 142.1 Tm (player made true.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 125.9 Tm (- Ask what destination or investigation the group wants next. Prepare it before) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 110.7 Tm (filling in an unrelated branch.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 94.5 Tm (- Record any content adjustment privately. Player personal disclosures do not) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 79.3 Tm (belong in the public module or source repository.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 26) Tj ET
+endstream
+endobj
+56 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 55 0 R >>
+endobj
+57 0 obj
+<< /Length 4028 >>
+stream
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 716 Tm (- Advance only at the agreed milestones. Update encounters for the characters') Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 700.8 Tm (actual capabilities.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 684.6 Tm (- Keep the next session's opening, immediate objective, essential clue, and two exit) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 66 669.4 Tm (states within reach.) Tj ET
+0.08 0.13 0.17 rg BT /F2 17.4 Tf 1 0 0 1 54 635.2 Tm (Credits, source boundaries, and fan notice) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 598.8 Tm (Campaign conception and direction: Austen Tucker-Crowder. This free module was) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 583.6 Tm (expanded from the current Message in a Bottle campaign bible and eight unplayed) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 568.4 Tm (session outlines, reviewed October 9, 2026. New mechanics and supporting names are) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 553.2 Tm (identified as additions for this edition. No private player questionnaire, correspondence,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 538 Tm (real-person backstory, Dread scenario text, Dread audio, or Pinnacle rulebook text is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 522.8 Tm (bundled here.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 497.6 Tm (The GM runner takes its practical format from the author's Dread at the Wooden) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 482.4 Tm (Shoe GM guide: a clear control room, scene cards, printable reference, manual cues,) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 467.2 Tm (and local progress. Its clocks, guidance, and campaign content are newly adapted for) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 452 Tm (this campaign; it does not use Dread's resolution system.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 426.8 Tm (Illustrations: existing human-directed AI interpretations from the campaign walkthrough.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 411.6 Tm (Text and production: developed with human-directed AI assistance. This edition is) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 396.4 Tm (offered free without a signup or payment requirement. The SWADE core rulebook) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 381.2 Tm (remains a separate requirement.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 356 Tm (Required Savage Worlds Fan License notice:) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 330.8 Tm (This game references the Savage Worlds game system, available from Pinnacle) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 315.6 Tm (Entertainment Group at www.peginc.com. Savage Worlds and all associated logos and) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 300.4 Tm (trademarks are copyrights of Pinnacle Entertainment Group. Used with permission.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 285.2 Tm (Pinnacle makes no representation or warranty as to the quality, viability, or) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 270 Tm (suitability for purpose of this product.) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 244.8 Tm (Pinnacle's Fan License terms \(https://shop.peginc.com/pages/licensing\). The Savage) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 229.6 Tm (Worlds Fan logo is Pinnacle's supplied asset. It is distinct from the official) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 214.4 Tm (licensed-product and Adventurer's Guild logos. This release makes no claim of Pinnacle) Tj ET
+0.08 0.13 0.17 rg BT /F1 11.2 Tf 1 0 0 1 54 199.2 Tm (approval.) Tj ET
+0.08 0.13 0.17 rg BT /F2 9 Tf 1 0 0 1 54 756 Tm (MESSAGE IN A BOTTLE / GM MODULE) Tj ET
+0.6 0.65 0.68 RG 0.8 w 54 747 m 558 747 l S
+0.6 0.65 0.68 RG 0.8 w 54 50 m 558 50 l S
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 54 36 Tm (Free Fan Edition 0.1 - Austen Tucker-Crowder) Tj ET
+0.08 0.13 0.17 rg BT /F1 8 Tf 1 0 0 1 506 36 Tm (Page 27) Tj ET
+endstream
+endobj
+58 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 57 0 R >>
+endobj
+xref
+0 59
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000297 00000 n 
+0000000394 00000 n 
+0000000496 00000 n 
+0000001795 00000 n 
+0000001931 00000 n 
+0000006164 00000 n 
+0000006300 00000 n 
+0000011135 00000 n 
+0000011272 00000 n 
+0000015651 00000 n 
+0000015789 00000 n 
+0000020295 00000 n 
+0000020433 00000 n 
+0000023850 00000 n 
+0000023988 00000 n 
+0000027825 00000 n 
+0000027963 00000 n 
+0000031811 00000 n 
+0000031949 00000 n 
+0000034581 00000 n 
+0000034719 00000 n 
+0000038270 00000 n 
+0000038408 00000 n 
+0000042200 00000 n 
+0000042338 00000 n 
+0000046331 00000 n 
+0000046469 00000 n 
+0000049417 00000 n 
+0000049555 00000 n 
+0000053223 00000 n 
+0000053361 00000 n 
+0000056963 00000 n 
+0000057101 00000 n 
+0000060734 00000 n 
+0000060872 00000 n 
+0000065240 00000 n 
+0000065378 00000 n 
+0000065999 00000 n 
+0000066137 00000 n 
+0000069799 00000 n 
+0000069937 00000 n 
+0000073763 00000 n 
+0000073901 00000 n 
+0000077429 00000 n 
+0000077567 00000 n 
+0000082053 00000 n 
+0000082191 00000 n 
+0000086650 00000 n 
+0000086788 00000 n 
+0000091686 00000 n 
+0000091824 00000 n 
+0000096153 00000 n 
+0000096291 00000 n 
+0000100659 00000 n 
+0000100797 00000 n 
+0000104877 00000 n 
+trailer
+<< /Size 59 /Root 1 0 R >>
+startxref
+105015
+%%EOF

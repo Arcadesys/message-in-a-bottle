@@ -1,0 +1,19 @@
+name: Validate fan edition
+on:
+  push:
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check interactive files and eight sessions
+        run: |
+          node --input-type=module -e "import {readFileSync} from 'node:fs'; const c=JSON.parse(readFileSync('app/campaign.json','utf8')); if(c.sessions.length!==8||c.sessions.reduce((n,s)=>n+s.scenes.length,0)!==24)process.exit(1); for(const f of ['app/index.html','app/module.html','app/handouts.html','app/runner.mjs','app/run-state.mjs','app/module.css'])if(!readFileSync(f,'utf8').length)process.exit(1)"
+      - name: Regenerate printable PDFs
+        run: node scripts/build-pdfs.mjs
+      - name: Check printable PDFs match sources
+        run: git diff --exit-code -- pdf/

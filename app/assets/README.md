@@ -1,5 +1,5 @@
-# Artwork
+# Campaign artwork
 
-The original module uses three illustrations and Pinnacle's unmodified Savage Worlds Fan logo. This repository's HTML documents currently load those existing files from `work.thearcades.me` rather than redistributing the binary images through GitHub. Text remains readable when image requests fail. **The HTML runner needs a local HTTP server or GitHub Pages; the complete text module can be read offline as HTML or PDF.**
+This directory contains the three existing, human-directed campaign illustrations and **Pinnacle's unaltered Savage Worlds Fan logo**. All files are copied without modification from the author's previously public fan campaign.
 
-Artwork is an interpretive illustration of the unplayed campaign. It is not a recovered map, player record, or photograph. See credits in the full module.
+The logo and its placement in the module are required by [Pinnacle's Fan License](https://shop.peginc.com/pages/licensing). Do not alter it, crop it, or repurpose the third-party logo. Other images interpret the unplayed campaign rather than documenting a played session.

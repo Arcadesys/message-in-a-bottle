@@ -11,17 +11,18 @@ Ten quiet years. A friend's return. Cartoon physics, municipal corruption, dimen
 ### 🖨️ Paper and dice (no computer at the table)
 - **[Complete GM module (PDF)](pdf/message-in-a-bottle-module.pdf)**: all eight gatherings, scene prompts, encounters, clocks, NPCs, and alternate outcomes.
 - **[Printable player handouts (PDF)](pdf/message-in-a-bottle-player-handouts.pdf)**: reunion sheet and staged clues. **GMs should reveal them at the indicated sessions.**
-- [Illustrated campaign walkthrough (PDF, on the author's site)](https://work.thearcades.me/downloads/message-in-a-bottle-campaign-walkthrough.pdf): development background and full spoilers; optional reading, not needed to run the adventure.
+- [Illustrated campaign walkthrough (PDF)](pdf/message-in-a-bottle-campaign-walkthrough.pdf): development background and full spoilers; optional reading, not needed to run the adventure.
 
-The repository PDFs are complete, **text-first, printer-friendly** resources. The more richly illustrated PDF editions are also available on the [author's site](https://work.thearcades.me/campaigns/message-in-a-bottle-module/). You need only your **SWADE core rules**, dice, Action Cards, Bennies, and characters.
+The repository PDFs are the **complete illustrated originals**, suitable for printing and running the whole campaign offline. They include the unaltered Savage Worlds Fan logo on their covers. You need only your **SWADE core rules**, dice, Action Cards, Bennies, and characters.
 
 ### 💻 Screen-assisted GMing
 - **[Interactive GM runner (on the author's website)](https://work.thearcades.me/campaigns/message-in-a-bottle-module/)**: scene cards, essential-clue checkboxes, manual pressure clocks, session timer, notes, optional sounds, and progress saved locally in your browser.
 - [Full module in HTML](https://work.thearcades.me/campaigns/message-in-a-bottle-module/module.html)
 - [Player handouts in HTML](https://work.thearcades.me/campaigns/message-in-a-bottle-module/handouts.html)
+- [Offline ZIP package](downloads/message-in-a-bottle-free-module.zip) containing the complete module, handouts, PDFs, and interactive source.
 - [Standalone HTML app in this repository](app/): identical campaign data, with relative links suitable for static hosting. To serve locally, see below.
 
-**Privacy:** The app stores notes and progress in the browser's local storage. It does not require accounts or send play records to a service. Illustrations are requested from the author's website while online. Exported backups may contain your own notes, so share them deliberately.
+**Privacy:** The app stores notes and progress in the browser's local storage. It does not require accounts or send play records to a service. All shipped campaign images are stored locally under `app/assets/`. Exported backups may contain your own notes, so share them deliberately.
 
 ## Run the HTML app locally
 
@@ -48,10 +49,10 @@ To publish with GitHub Pages, enable **Settings → Pages → Deploy from branch
 
 | Path | Purpose |
 | --- | --- |
-| `pdf/` | Printable GM book, player handouts, and illustrated walkthrough |
-| `app/` | Accessible static HTML GM runner, campaign JSON, complete module, handouts, and campaign artwork |
+| `pdf/` | Canonical illustrated GM book, player handouts, and illustrated walkthrough |
+| `app/` | Accessible static HTML GM runner, campaign JSON, full module, handouts, and original campaign illustrations plus the unaltered fan logo |
 | `source/` | Markdown authoring sources and structured session data |
-| `scripts/` | Zero-dependency generator for the two printer-friendly PDFs |
+| `downloads/` | Self-contained release ZIP (the interactive runner needs a static server) |
 
 ## Credits and provenance
 
@@ -59,7 +60,7 @@ Campaign conception and direction: **Austen Tucker-Crowder**.
 
 This is a tabletop adaptation of the original *Message in a Bottle* campaign bible and eight **unplayed** session plans. The free fan edition adds runnable encounters, supporting NPCs, player handouts, scene clocks, alternate outcomes, and balancing assumptions. It does not portray events that were actually played.
 
-Human-directed AI tools assisted development, writing, assembly, and illustrations. Existing illustrations interpret the campaign; they are not archival records. Original player correspondence, character questionnaires, and other private materials are **not** included.
+Human-directed AI tools assisted development, writing, assembly, and illustrations. Existing illustrations interpret the campaign; they are not archival records. Original player correspondence, character questionnaires, and other private materials are **not** included. The binaries are copied unchanged from the author's public website repository through a scoped [asset sync workflow](.github/workflows/sync-release-assets.yml).
 
 The campaign uses a distinct tabletop remix of imagery from *The Witch Who Sold the World* and does not imply continuity with *Ink and Paint*. All cartoon characters in this release are original.
 

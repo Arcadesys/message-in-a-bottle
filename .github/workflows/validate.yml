@@ -10,10 +10,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Check interactive files and eight sessions
+      - name: Check eight sessions, scene cards, and HTML app
         run: |
           node --input-type=module -e "import {readFileSync} from 'node:fs'; const c=JSON.parse(readFileSync('app/campaign.json','utf8')); if(c.sessions.length!==8||c.sessions.reduce((n,s)=>n+s.scenes.length,0)!==24)process.exit(1); for(const f of ['app/index.html','app/module.html','app/handouts.html','app/runner.mjs','app/run-state.mjs','app/module.css'])if(!readFileSync(f,'utf8').length)process.exit(1)"
-      - name: Regenerate printable PDFs
-        run: node scripts/build-pdfs.mjs
-      - name: Check printable PDFs match sources
-        run: git diff --exit-code -- pdf/
+      - name: Check printed modules
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          for p in ('pdf/message-in-a-bottle-module.pdf','pdf/message-in-a-bottle-player-handouts.pdf'):
+            b=Path(p).read_bytes()
+            assert b.startswith(b'%PDF-') and b'%%EOF' in b[-2048:], p
+          p=Path('app/assets/savage-worlds-fan.png')
+          if p.exists():
+            assert p.read_bytes()[:8] == bytes.fromhex('89504e470d0a1a0a')
+          PY

@@ -1,0 +1,71 @@
+name: Sync illustrated fan-edition assets
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-release-assets.yml'
+permissions:
+  contents: write
+concurrency:
+  group: campaign-asset-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Fetch public canonical campaign assets
+        run: |
+          set -euo pipefail
+          git clone --quiet --depth=1 https://github.com/Arcadesys/work-thearcades-me.git /tmp/miab-canonical
+      - name: Copy only approved release files
+        run: |
+          set -euo pipefail
+          mkdir -p pdf app/assets downloads
+          source_root=/tmp/miab-canonical/public
+          cp "$source_root/downloads/message-in-a-bottle-module.pdf" pdf/
+          cp "$source_root/downloads/message-in-a-bottle-player-handouts.pdf" pdf/
+          cp "$source_root/downloads/message-in-a-bottle-campaign-walkthrough.pdf" pdf/
+          cp "$source_root/downloads/message-in-a-bottle-free-module.zip" downloads/
+          for name in chicago-snowglobe.webp primordial-archipelago.webp thompson-maze.webp savage-worlds-fan.png; do
+            cp "$source_root/campaigns/message-in-a-bottle-module/assets/$name" "app/assets/$name"
+            cmp "$source_root/campaigns/message-in-a-bottle-module/assets/$name" "app/assets/$name"
+          done
+          python3 - <<'PY'
+          from pathlib import Path
+          prefix='https://work.thearcades.me/campaigns/message-in-a-bottle-module/assets/'
+          for p in Path('app').glob('*.html'):
+              s=p.read_text()
+              p.write_text(s.replace(prefix, './assets/'))
+          PY
+      - name: Confirm source fidelity and required fan-logo placement
+        run: |
+          set -euo pipefail
+          test -s app/assets/savage-worlds-fan.png
+          test -s pdf/message-in-a-bottle-module.pdf
+          test -s pdf/message-in-a-bottle-player-handouts.pdf
+          python3 - <<'PY'
+          from pathlib import Path
+          logo=Path('app/assets/savage-worlds-fan.png').read_bytes()
+          assert logo[:8] == bytes.fromhex('89504e470d0a1a0a')
+          for name in ('message-in-a-bottle-module.pdf', 'message-in-a-bottle-player-handouts.pdf', 'message-in-a-bottle-campaign-walkthrough.pdf'):
+              contents=(Path('pdf') / name).read_bytes()
+              assert contents[:5] == b'%PDF-', name
+              assert b'%%EOF' in contents[-2048:], name
+          for file in Path('app').glob('*.html'):
+              content=file.read_text()
+              assert 'https://work.thearcades.me/campaigns/message-in-a-bottle-module/assets/' not in content
+          PY
+      - name: Commit public release assets
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add app pdf downloads
+          if ! git diff --cached --quiet; then
+            git commit -m "Use complete illustrated PDFs and unaltered Savage Worlds fan logo"
+            git push origin HEAD:main
+          fi

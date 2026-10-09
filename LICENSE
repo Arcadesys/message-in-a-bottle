@@ -33,7 +33,8 @@ CC BY 4.0 content grant
 ----------------------
 The licensor's original campaign prose, handouts, characters, scene
 descriptions, and adventure procedures in source/, app/campaign.json,
-app/module.md, app/handouts.md, and app/illustrated-guide/stat-blocks.md,
+app/module.md, app/handouts.md, app/illustrated-guide/stat-blocks.md,
+and app/illustrated-guide/encounters.md,
 and the same original content reproduced
 in HTML and PDFs, are licensed under Creative Commons Attribution 4.0
 International (CC BY 4.0). source/sessions.mjs holds campaign data and is

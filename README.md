@@ -24,6 +24,11 @@ The repository PDFs are the **complete illustrated originals**, suitable for pri
 
 **Privacy:** The app stores notes and progress in the browser's local storage. It does not require accounts or send play records to a service. All shipped campaign images are stored locally under `app/assets/`. Exported backups may contain your own notes, so share them deliberately.
 
+### 🤖 MCP companion (GM-controlled conversational play)
+- **[Install the local MCP Game Master](mcp/README.md)** for clients supporting local stdio MCP tools. Query the 24 scenes and step-by-step [Scene Director's Handbook](source/gm-field-guide.md), mark revealed clues, record actual choices, and advance pressure clocks.
+- Story facts come from the published adventure. Notes and progress stay in a separate local JSON save on the GM's computer. Nothing calls an AI API automatically, and **SWADE rules and GM judgment remain authoritative**.
+- The MCP companion does not automatically sync with the browser GM runner. It is not a public hosted MCP endpoint; desktop clients supporting local MCP can launch it with Node 20+.
+
 ## Run the HTML app locally
 
 This is a static HTML/JavaScript application, with no account, API keys, database, or build required.

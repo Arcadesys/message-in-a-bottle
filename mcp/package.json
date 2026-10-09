@@ -1,0 +1,18 @@
+{
+  "name": "message-in-a-bottle-mcp",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Local, spoiler-aware GM companion for the Message in a Bottle SWADE fan adventure",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test engine.test.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.0.0",
+    "zod": "^4.0.0"
+  }
+}

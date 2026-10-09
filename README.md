@@ -106,8 +106,10 @@ Anyone publishing a Savage Worlds version must independently comply with Pinnacl
 
 ## Public website
 
-Live site: **[message-in-a-bottle-alpha.vercel.app](https://message-in-a-bottle-alpha.vercel.app/)**.
+**[Message in a Bottle on thearcades.me](https://www.thearcades.me/toys/message-in-a-bottle)** is the current public home, with the **[illustrated GM guide](https://www.thearcades.me/toys/message-in-a-bottle/guide.html)** hosted on the same site and an offline ZIP download. The Toy page also links to the optional local MCP companion’s setup instructions.
 
-The Vercel site opens the latest illustrated guide at the front page, with the earlier GM runner at `/app/`, plus PDF and ZIP downloads. The runner and PDFs remain separate editions; the new maze and old cyclotron expansions are in the illustrated guide.
+The guide includes the expanded Thompson Center maze and old Chicago Cyclotron encounter. The MCP companion follows the 24-scene campaign outline; use the illustrated guide for those expanded encounter mechanics. The companion runs locally in compatible desktop clients and is not a public hosted endpoint.
 
-Build the static release with `node scripts/build-site.mjs`. Vercel uses `vercel.json` to publish only the generated `public/` directory. No server or environment secrets are needed. The local MCP companion is not deployed. The Vercel project is connected to this GitHub repository; pushes to `main` update production.
+The earlier runner, PDFs, and offline packages remain available in this repository as separate editions. The standalone campaign Vercel deployment has been retired; the author’s main site owns public hosting. Approved illustrated-guide updates are vendored into `Arcadesys/arcadeprofile` with a recorded source commit and file hashes.
+
+Build a local static export with `node scripts/build-site.mjs`; it writes only public release files to `public/`. No server or environment secrets are needed. This export includes the earlier runner and print editions for offline use; it is not an automatic public deployment.

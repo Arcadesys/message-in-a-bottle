@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 const repo = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const output = join(repo, 'public');
 const guide = join(repo, 'app/illustrated-guide');
-const siteURL = (process.env.SITE_URL || 'https://message-in-a-bottle-alpha.vercel.app').replace(/\/$/, '');
+const siteURL = (process.env.SITE_URL || 'https://www.thearcades.me/toys/message-in-a-bottle/guide.html').replace(/\/$/, '');
 rmSync(output, { recursive: true, force: true });
 mkdirSync(output, { recursive: true });
 // Only these public release directories enter the static deployment.
@@ -35,10 +35,10 @@ const resources = `
 </section>`;
 let page = readFileSync(join(guide, 'index.html'), 'utf8');
 page = page.replace('<section class="intro wide"', `${resources}\n  <section class="intro wide"`);
-page = page.replace('  <title>', `  <link rel="canonical" href="${siteURL}/">\n  <meta property="og:title" content="Message in a Bottle · Free Savage Worlds module">\n  <meta property="og:description" content="A free illustrated Chicago campaign, with GM spoilers, characters and runnable encounters.">\n  <meta property="og:type" content="website">\n  <meta property="og:url" content="${siteURL}/">\n  <meta property="og:image" content="${siteURL}/images/chicago-snowglobe.webp">\n  <title>`);
+page = page.replace('  <title>', `  <link rel="canonical" href="${siteURL}">\n  <meta property="og:title" content="Message in a Bottle · Free Savage Worlds module">\n  <meta property="og:description" content="A free illustrated Chicago campaign, with GM spoilers, characters and runnable encounters.">\n  <meta property="og:type" content="website">\n  <meta property="og:url" content="${siteURL}">\n  <meta property="og:image" content="https://puhixbchomgvn0ti.public.blob.vercel-storage.com/images/c27d67a975531691181382d40f8880d28ace40c941551e76021ee38be37b387b/chicago-snowglobe.webp">\n  <title>`);
 writeFileSync(join(output, 'index.html'), page);
-writeFileSync(join(output, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${siteURL}/sitemap.xml\n`);
-writeFileSync(join(output, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>${siteURL}/</loc></url></urlset>\n`);
+writeFileSync(join(output, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${new URL(siteURL).origin}/sitemap.xml\n`);
+writeFileSync(join(output, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>${siteURL}</loc></url></urlset>\n`);
 // Fail the build if a front-page resource or image would be broken.
 for (const [, href] of page.matchAll(/(?:href|src)="([^"]+)"/g)) {
   if (/^(?:#|https?:|mailto:)/.test(href)) continue;

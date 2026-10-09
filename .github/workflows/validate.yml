@@ -30,3 +30,4 @@ jobs:
           npm test --prefix mcp
           node --check mcp/server.mjs
           node --check mcp/engine.mjs
+          node mcp/smoke.mjs

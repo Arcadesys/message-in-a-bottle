@@ -15,4 +15,4 @@ The original campaign bible and eight unplayed session outlines establish the ar
 
 The [asset-sync action](../.github/workflows/sync-release-assets.yml) copies the original PDFs and the unaltered Savage Worlds Fan logo from `Arcadesys/work-thearcades-me`. The PDF cover includes that logo in accordance with the [Pinnacle Fan License](https://shop.peginc.com/pages/licensing). It deliberately imports only the four named images, three named PDFs, and the specific offline ZIP. It does not import unrelated site files.
 
-**Rights:** public availability does not grant unrestricted reproduction or commercial use; see the root README.
+**Rights:** Austen Tucker-Crowder's original campaign contributions here are licensed under [CC BY 4.0](../LICENSE-CC-BY-4.0), with attribution and change notices required by that license. Third-party material is excluded, and the assembled Savage Worlds fan edition must remain free under Pinnacle's terms. See [LICENSE](../LICENSE) and the [root README](../README.md) for the exact scope.

@@ -103,3 +103,9 @@ The assembled Savage Worlds fan edition is distributed under [Pinnacle's Fan Lic
 Anyone publishing a Savage Worlds version must independently comply with Pinnacle's applicable terms. Keep the fan edition free and preserve the required fan logo and notice. Commercial reuse of separable original material under these licenses does not authorize selling this Savage Worlds package or using Pinnacle's protected material, branding, or settings. Remove excluded material and obtain any additional permissions your intended use requires. Other publication routes, including SWAG and the Ace program, have their own terms; this repository does not grant access to them or imply Pinnacle approval.
 
 [Companion essay: The Work Didn't Disappear](https://work.thearcades.me/blog/the-work-didnt-disappear)
+
+## Public website
+
+The Vercel site opens the latest illustrated guide at the front page, with the earlier GM runner at `/app/`, plus PDF and ZIP downloads. The runner and PDFs remain separate editions; the new maze and old cyclotron expansions are in the illustrated guide.
+
+Build the static release with `node scripts/build-site.mjs`. Vercel uses `vercel.json` to publish only the generated `public/` directory. No server or environment secrets are needed. The local MCP companion is not deployed.

@@ -13,6 +13,8 @@ jobs:
       - name: Check eight sessions, scene cards, and HTML app
         run: |
           node --input-type=module -e "import {readFileSync} from 'node:fs'; const c=JSON.parse(readFileSync('app/campaign.json','utf8')); if(c.sessions.length!==8||c.sessions.reduce((n,s)=>n+s.scenes.length,0)!==24)process.exit(1); for(const f of ['app/index.html','app/module.html','app/handouts.html','app/runner.mjs','app/run-state.mjs','app/module.css'])if(!readFileSync(f,'utf8').length)process.exit(1)"
+      - name: Build the public static site and check resource links
+        run: node scripts/build-site.mjs
       - name: Check printed modules
         run: |
           python3 - <<'PY'

@@ -16,6 +16,7 @@ under the MIT License, whose complete text and copyright notice are in
 LICENSE-MIT:
 
 - app/runner.mjs
+- scripts/build-site.mjs
 - app/run-state.mjs
 - app/module.css
 - app/illustrated-guide/styles.css and app/illustrated-guide/script.js

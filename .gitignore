@@ -1,0 +1,6 @@
+.vercel/
+public/
+node_modules/
+mcp/package-lock.json
+.vercel
+.env*

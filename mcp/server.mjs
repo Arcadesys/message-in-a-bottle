@@ -58,7 +58,7 @@ function createServer() {
     description:'GM-directed write: mark an essential session clue revealed (1-based index). This does NOT reveal player handouts automatically.',
     inputSchema:z.object({session:z.number().int().min(0).max(7),clue_index:z.number().int().min(1),revealed:z.boolean().default(true)}),
     annotations:{readOnlyHint:false}
-  },async({session,clue_index,revealed})=>asText({session,clue_index,revealed,clues:recap(session).sessions[0].essentialClues,updatedAt:revealClue(session,clue_index,revealed).updatedAt}));
+  },async({session,clue_index,revealed})=>asText({session,clue_index,revealed,updatedAt:revealClue(session,clue_index,revealed).updatedAt,clues:recap(session).sessions[0].essentialClues}));
   server.registerTool('set_pressure_clock',{
     description:'GM-directed write: set an adventure clock to an explicit number (no automatic hidden clock changes). Clock limits validated.',
     inputSchema:z.object({session:z.number().int().min(0).max(7),value:z.number().int().nonnegative()}),

@@ -24,3 +24,9 @@ jobs:
           if p.exists():
             assert p.read_bytes()[:8] == bytes.fromhex('89504e470d0a1a0a')
           PY
+      - name: Test MCP GM engine and SDK startup
+        run: |
+          npm install --prefix mcp --no-audit --no-fund
+          npm test --prefix mcp
+          node --check mcp/server.mjs
+          node --check mcp/engine.mjs

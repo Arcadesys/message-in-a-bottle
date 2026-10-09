@@ -9,7 +9,8 @@ Ten quiet years. A friend's return. Cartoon physics, municipal corruption, dimen
 ## Choose how to play
 
 ### 🖨️ Paper and dice (no computer at the table)
-- **[Complete GM module (PDF)](pdf/message-in-a-bottle-module.pdf)**: all eight gatherings, scene prompts, encounters, clocks, NPCs, and alternate outcomes.
+- **[Complete GM module (PDF)](pdf/message-in-a-bottle-module.pdf)**: all eight gatherings, 24 detailed step-by-step scene guides, checks, contingencies, encounter clocks, NPCs, and alternate outcomes.
+- [Standalone scene-by-scene director (PDF)](pdf/message-in-a-bottle-scene-director.pdf): fast GM reference, with scene setups, read-aloud cues, procedures, setbacks, and exit paths.
 - **[Printable player handouts (PDF)](pdf/message-in-a-bottle-player-handouts.pdf)**: reunion sheet and staged clues. **GMs should reveal them at the indicated sessions.**
 - [Illustrated campaign walkthrough (PDF)](pdf/message-in-a-bottle-campaign-walkthrough.pdf): development background and full spoilers; optional reading, not needed to run the adventure.
 
@@ -20,6 +21,7 @@ The repository PDFs are the **complete illustrated originals**, suitable for pri
 - [Full module in HTML](https://work.thearcades.me/campaigns/message-in-a-bottle-module/module.html)
 - [Player handouts in HTML](https://work.thearcades.me/campaigns/message-in-a-bottle-module/handouts.html)
 - [Offline ZIP package](downloads/message-in-a-bottle-free-module.zip) containing the complete module, handouts, PDFs, and interactive source.
+- [Interactive, readable scene director in HTML](app/scene-director.html): all 24 run sheets without a PDF viewer.
 - [Standalone HTML app in this repository](app/): identical campaign data, with relative links suitable for static hosting. To serve locally, see below.
 
 **Privacy:** The app stores notes and progress in the browser's local storage. It does not require accounts or send play records to a service. All shipped campaign images are stored locally under `app/assets/`. Exported backups may contain your own notes, so share them deliberately.

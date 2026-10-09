@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/sync-release-assets.yml'
+      - 'source/gm-field-guide.md'
+      - 'scripts/build-print-edition.py'
 permissions:
   contents: write
 concurrency:
@@ -41,6 +43,10 @@ jobs:
               s=p.read_text()
               p.write_text(s.replace(prefix, './assets/'))
           PY
+      - name: Build extended printable GM book and interactive reference
+        run: |
+          python3 -m pip install --quiet reportlab pypdf pillow markdown
+          python3 scripts/build-print-edition.py --base /tmp/miab-canonical/public/downloads/message-in-a-bottle-module.pdf
       - name: Confirm source fidelity and required fan-logo placement
         run: |
           set -euo pipefail

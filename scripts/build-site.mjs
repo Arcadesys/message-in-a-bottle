@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 const repo = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const output = join(repo, 'public');
 const guide = join(repo, 'app/illustrated-guide');
-const siteURL = (process.env.SITE_URL || 'https://message-in-a-bottle.vercel.app').replace(/\/$/, '');
+const siteURL = (process.env.SITE_URL || 'https://message-in-a-bottle-alpha.vercel.app').replace(/\/$/, '');
 rmSync(output, { recursive: true, force: true });
 mkdirSync(output, { recursive: true });
 // Only these public release directories enter the static deployment.

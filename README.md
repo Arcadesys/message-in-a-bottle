@@ -106,6 +106,8 @@ Anyone publishing a Savage Worlds version must independently comply with Pinnacl
 
 ## Public website
 
+Live site: **[message-in-a-bottle-alpha.vercel.app](https://message-in-a-bottle-alpha.vercel.app/)**.
+
 The Vercel site opens the latest illustrated guide at the front page, with the earlier GM runner at `/app/`, plus PDF and ZIP downloads. The runner and PDFs remain separate editions; the new maze and old cyclotron expansions are in the illustrated guide.
 
-Build the static release with `node scripts/build-site.mjs`. Vercel uses `vercel.json` to publish only the generated `public/` directory. No server or environment secrets are needed. The local MCP companion is not deployed.
+Build the static release with `node scripts/build-site.mjs`. Vercel uses `vercel.json` to publish only the generated `public/` directory. No server or environment secrets are needed. The local MCP companion is not deployed. The Vercel project is connected to this GitHub repository; pushes to `main` update production.

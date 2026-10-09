@@ -4,6 +4,7 @@ This folder contains the human-directed authoring material for the free tabletop
 
 - `introduction.md`: premise, spoiler brief, table setup, clue policy, and calibration.
 - `sessions.mjs`: eight sessions and twenty-four scene cards, procedures, clues, outcomes, and clocks.
+- `gm-field-guide.md`: a run sheet for every scene, including opening cues, step-by-step adjudication, branch handling, and transitions. It is appended to the GM book and rendered to `app/scene-director.html` by `scripts/build-print-edition.py`.
 - `appendix.md`: original NPC profiles, maps, clocks, scaling notes, credits, and the full fan notice.
 - `handouts.md`: player-facing handout masters and reveal timing.
 

@@ -18,8 +18,9 @@ LICENSE-MIT:
 - app/runner.mjs
 - app/run-state.mjs
 - app/module.css
+- app/illustrated-guide/styles.css and app/illustrated-guide/script.js
 - Original HTML interface and layout code in index.html, app/index.html,
-  app/module.html, and app/handouts.html
+  app/module.html, app/handouts.html, and app/illustrated-guide/index.html
 - Original workflow code in .github/workflows/
 
 Campaign prose, data, images, third-party material, and referenced GitHub
@@ -32,7 +33,8 @@ CC BY 4.0 content grant
 ----------------------
 The licensor's original campaign prose, handouts, characters, scene
 descriptions, and adventure procedures in source/, app/campaign.json,
-app/module.md, and app/handouts.md, and the same original content reproduced
+app/module.md, app/handouts.md, and app/illustrated-guide/stat-blocks.md,
+and the same original content reproduced
 in HTML and PDFs, are licensed under Creative Commons Attribution 4.0
 International (CC BY 4.0). source/sessions.mjs holds campaign data and is
 in this content scope, rather than the software scope.
@@ -44,6 +46,7 @@ PDF reproductions are also licensed under CC BY 4.0:
 - app/assets/chicago-snowglobe.webp
 - app/assets/primordial-archipelago.webp
 - app/assets/thompson-maze.webp
+- Identical copies of these three illustrations in app/illustrated-guide/images/
 
 Human-directed AI tools assisted production. This grant does not claim
 exclusive copyright in every generated element or impose new restrictions
@@ -71,7 +74,8 @@ Exclusions and the Savage Worlds fan edition
 Neither grant licenses rights the licensor does not hold. Excluded
 material includes Pinnacle Entertainment Group's Savage Worlds/SWADE
 rulebook text and other protected material, settings, logos and trademarks;
-app/assets/savage-worlds-fan.png; and any other third-party text, artwork,
+app/assets/savage-worlds-fan.png and its identical copy in
+app/illustrated-guide/images/savage-worlds-fan.png; and any other third-party text, artwork,
 fonts or assets. Such material retains its own permissions and notices.
 The grants apply only to separable original contributions within mixed
 files, HTML, PDFs and the release ZIP. A bundled copy of excluded material

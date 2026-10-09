@@ -17,6 +17,9 @@ Ten quiet years. A friend's return. Cartoon physics, municipal corruption, dimen
 The repository PDFs are the **complete illustrated originals**, suitable for printing and running the whole campaign offline. They include the unaltered Savage Worlds Fan logo on their covers. You need only your **SWADE core rules**, dice, Action Cards, Bennies, and characters.
 
 ### 💻 Screen-assisted GMing
+- **[Illustrated GM guide with expanded stat blocks](app/illustrated-guide/)**: the eight-gathering story, three illustrations, eleven complete NPC/creature profiles (four Wild Cards and seven Extras), and suggested opposition for every session. New builds are labeled as optional, unplaytested additions. [Separate stat-block reference](app/illustrated-guide/stat-blocks.md). The guide opens directly in a browser without a server.
+- [Download the illustrated guide and stat blocks](downloads/message-in-a-bottle-illustrated-guide.zip): a self-contained offline package.
+
 - **[Interactive GM runner (on the author's website)](https://work.thearcades.me/campaigns/message-in-a-bottle-module/)**: scene cards, essential-clue checkboxes, manual pressure clocks, session timer, notes, optional sounds, and progress saved locally in your browser.
 - [Full module in HTML](https://work.thearcades.me/campaigns/message-in-a-bottle-module/module.html)
 - [Player handouts in HTML](https://work.thearcades.me/campaigns/message-in-a-bottle-module/handouts.html)
